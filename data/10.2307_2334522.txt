@@ -1,0 +1,14 @@
+@article{10.2307/2334522,
+ ISSN = {00063444},
+ URL = {http://www.jstor.org/stable/2334522},
+ abstract = {We present a test of normality based on a statistic D which is up to a constant the ratio of Downton's linear unbiased estimator of the population standard deviation to the sample standard deviation. For the usual levels of significance Monte Carlo simulations indicate that Cornish-Fisher expansions adequately approximate the null distribution of D if the sample size is 50 or more. The test is an omnibus test, being appropriate to detect deviations from normality due either to skewness or kurtosis. Simulation results of powers for various alternatives when the sample size is 50 indicate that the test compares favourably with the Shapiro-Wilk W test, √ b1, b2 and the ratio of range to standard deviation.},
+ author = {Ralph B. D'Agostino},
+ journal = {Biometrika},
+ number = {2},
+ pages = {341--348},
+ publisher = {[Oxford University Press, Biometrika Trust]},
+ title = {An Omnibus Test of Normality for Moderate and Large Size Samples},
+ volume = {58},
+ year = {1971}
+}
+
